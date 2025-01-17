@@ -1,3 +1,9 @@
 h1 {
     text-align: center;
+    font-weight: 400;
+    text-decoration: #f67687 underline double;
+}
+
+p {
+    line-height: 2;
 }
